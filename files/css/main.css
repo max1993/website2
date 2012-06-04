@@ -1,0 +1,10 @@
+*{padding:0;margin:0;}
+.lfloat{float:left}
+.rfloat{float:right}
+.jewel{float:left;margin-right:-1px;position:relative;}
+.clearfix::after {clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden}
+#header{width:100%;position: relative;background:blue;}
+#leftCol {min-height:200px;display:block;width: 179px;word-wrap:break-word;}
+#content #right{width:240px;}
+#content{height:210px;}
+#notifContainer{position:relative;z-index: 4;padding-top: 5px;}
