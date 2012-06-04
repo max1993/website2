@@ -6,17 +6,16 @@
 <link rel="stylesheet" href="files/css/main.css">
 <body>
 	<div id="header">
-		<h1 class="lfloat">logo</h1>
+		<h1 class="lfloat"><img src="files/img/logo.jpg"></h1>
 		<div id="notifContainer" class="lfloat">
-			<div id="req" class="jewel">Request</div>
+			<div id="req" class="jewel">
+				<a class="jewelButton"></a>
+				Requests</div>
 			<div id="msg" class="jewel">Message</div>
 			<div id="notif" class="jewel">Notification</div>
 		</div>
-		<div id="headNav">
-			xxx
-		</div>
+		<div id="headNav">xxx</div>
 	</div>
-	<br>
 	<div id="container">
 		<div id="MainContent">
 			<div id="leftCol" class="lfloat">
